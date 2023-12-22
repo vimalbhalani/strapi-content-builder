@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_layout_section_sections",
+  "info": {
+    "displayName": "section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "layout_fields": {
+      "displayName": "Layout Fields",
+      "type": "component",
+      "repeatable": true,
+      "component": "layout-section.layout-fields"
+    },
+    "section_data_config": {
+      "type": "component",
+      "repeatable": false,
+      "component": "layout-section.section-data-configuration"
+    }
+  }
+}
