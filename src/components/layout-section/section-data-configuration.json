@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_layout_section_section_data_configurations",
+  "info": {
+    "displayName": "Section Data Configuration",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "collection": {
+      "type": "customField",
+      "customField": "plugin::collection-selector.collection"
+    }
+  }
+}

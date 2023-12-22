@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_layout_section_layout_fields",
+  "info": {
+    "displayName": "Layout Fields",
+    "icon": "expand",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "value": {
+      "type": "text"
+    }
+  }
+}
